@@ -1,0 +1,25 @@
+.lista-notas {
+  list-style: none;
+  display: flex;
+  flex-grow: 2;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  box-shadow: 0 0 4px rgb(0 0 0 / 30%);
+  min-height: 100vh;
+  width: 70%;
+  z-index: 1;
+  margin-block-end: 0;
+  margin-block-start: 0;
+  padding-right: 20px;
+}
+
+.lista-notas_item {
+  display: block;
+  margin-right: 50px;
+}
+
+.lista-notas_categoria {
+  margin: 10px 0;
+  
+}
