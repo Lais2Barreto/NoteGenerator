@@ -2,7 +2,8 @@
 ![Imagem do sistema](https://github.com/Lais2Barreto/NoteGenerator/blob/master/ceep_notas.png)
 
 # NoteGenerator 🗒️
-Sistema de notas textuais usando React
+Sistema simples de notas textuais usando React
+(primeiro projeto react)
 
 ## :rocket: Instalação
 
